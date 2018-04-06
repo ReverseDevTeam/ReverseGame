@@ -309,6 +309,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Discordity\Scripts\DiscordController.cs" />
+    <Compile Include="Assets\Discordity\Scripts\DiscordRpc.cs" />
     <Compile Include="Assets\Scripts\PlayerControl.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
