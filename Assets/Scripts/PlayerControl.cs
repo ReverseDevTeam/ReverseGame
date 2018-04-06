@@ -8,6 +8,7 @@ public class PlayerControl : MonoBehaviour {
 
 	public float moveSpeed = 2;
 	public float jumpHeight = 400;
+    public int doubleJumpsMade;
 
 	public Transform groundCheck;
 	public float groundCheckBox;
@@ -18,16 +19,29 @@ public class PlayerControl : MonoBehaviour {
 	void Start () {
 		rb = GetComponent<Rigidbody2D> ();
 	}
-	
-	// Update is called once per frame
-	public void FixedUpdate () {
+
+    // Update is called once per frame
+    public void Update () {
 		float moveH = Input.GetAxis ("Horizontal");	
-		rb.velocity = new Vector2 (moveH * moveSpeed, rb.velocity.y);						//x movement
+		rb.velocity = new Vector2 (moveH * moveSpeed, rb.velocity.y);                       //x movement
 
+        if (grounded)
+            doubleJumpsMade = 0;
 
-		grounded = Physics2D.OverlapCircle (groundCheck.position, groundCheckBox, ground);	//check for ground
-		if (Input.GetKeyDown (KeyCode.Space)) {
-			rb.AddForce (new Vector2 (rb.velocity.x, jumpHeight));			   				//y movement (jumping)
-		}
+        grounded = Physics2D.OverlapCircle (groundCheck.position, groundCheckBox, ground);	//check for ground
+		if (Input.GetKeyDown(KeyCode.Space))
+        {
+            if (!grounded && doubleJumpsMade != 1)
+            {
+                rb.AddForce(new Vector2(rb.velocity.x, jumpHeight * 1.5f));
+                doubleJumpsMade++;
+            }
+			       				
+            else if(grounded)
+            {
+                rb.AddForce(new Vector2(rb.velocity.x, jumpHeight)); //y movement (jumping)
+            }
+                
+        }
 	}
 }
