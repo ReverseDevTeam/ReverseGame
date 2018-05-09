@@ -10,12 +10,10 @@ public class loadLvl : MonoBehaviour {
 	public Slider slider;
 	public GameObject loadBar;
 
-	// Use this for initialization
 	void Start () {
 
 	}
-	
-	// Update is called once per frame
+
 	void Update () {
 		
 	}
@@ -30,8 +28,6 @@ public class loadLvl : MonoBehaviour {
 	{
 		AsyncOperation loadScene = SceneManager.LoadSceneAsync (sceneName);
 
-
-
 		while (!loadScene.isDone) 
 		{
 			float progress = Mathf.Clamp01 (loadScene.progress / .9f);
@@ -39,6 +35,5 @@ public class loadLvl : MonoBehaviour {
 			percent.text = progress * 100f + "%";
 			yield return null;
 		}
-
 	}
 }

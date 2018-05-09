@@ -16,8 +16,7 @@ public class Fireball : MonoBehaviour {
 
 		audioCtrlScript = GetComponent<audioControl>();
 	}
-	
-	// Update is called once per frame
+
 	void Update () {
 		bounceTime += Time.deltaTime;
 		if (bounceTime >= timer) {

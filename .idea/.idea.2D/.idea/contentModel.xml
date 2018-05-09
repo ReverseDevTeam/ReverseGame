@@ -24,6 +24,7 @@
       <e p="Assets\Scripts" t="Include">
         <e p="audioControl.cs" t="Include" />
         <e p="CamMovement.cs" t="Include" />
+        <e p="CheckCompletedLvls.cs" t="Include" />
         <e p="Checkpoint.cs" t="Include" />
         <e p="CreditsScene.cs" t="Include" />
         <e p="CrushCheck.cs" t="Include" />

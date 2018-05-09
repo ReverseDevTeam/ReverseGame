@@ -104,9 +104,7 @@ public class PlayerControl : MonoBehaviour {
 	void OnCollisionEnter2D(Collision2D other){
 		if (other.gameObject.tag == "Enemy") {
 			TakeDamage ();
-		}
-
-		if(other.gameObject.tag == "Hazard"){
+		} else if (other.gameObject.tag == "Hazard") {
 			TakeDamage ();
 		}
 
@@ -152,8 +150,9 @@ public class PlayerControl : MonoBehaviour {
 			PlayerPrefs.SetInt ("coins", totalCoins);
 			audioCtrlScript.playSound ("coin_pick_up");
 			timeSinceLastCoinPickup = 0f;
+		} else if (col.gameObject.tag == "Hazard") {
+			TakeDamage ();
 		}
-
 //		Debug.Log (col + "zucc");
 
 	}
@@ -168,6 +167,5 @@ public class PlayerControl : MonoBehaviour {
     }
 	public void Death(){
 		dead = true;
-		health = 0;
 	}
 }
