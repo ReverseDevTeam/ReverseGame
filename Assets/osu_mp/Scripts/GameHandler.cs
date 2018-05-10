@@ -223,7 +223,7 @@ public class GameHandler : MonoBehaviour
             SceneManager.LoadScene(SceneManager.GetActiveScene().name);
         }
 
-        if (numSucessfullyClicked <= 0)
+        if (numSucessfullyClicked <= 0 && ClickedCount == 0)
         {
             percentage = 100f;
         }
