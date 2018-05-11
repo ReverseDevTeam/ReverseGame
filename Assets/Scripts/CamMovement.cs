@@ -5,6 +5,7 @@ using UnityEngine;
 public class CamMovement : MonoBehaviour {
 
 	public GameObject player;
+	public float y;
 	private float x;
 
 	void Start () {
@@ -13,6 +14,6 @@ public class CamMovement : MonoBehaviour {
 
 	void Update () {
 		x = player.transform.position.x;
-		transform.position = new Vector3(x, -4.71f, -5f);
+		transform.position = new Vector3(x, y, -5f);
 	}
 }

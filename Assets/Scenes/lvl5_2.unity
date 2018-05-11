@@ -121659,6 +121659,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 2006417512}
+  y: -4.71
 --- !u!1 &1919972999
 GameObject:
   m_ObjectHideFlags: 0
