@@ -8,8 +8,10 @@ public class volumeSetter : MonoBehaviour {
 	public Scrollbar slider;
 
 	// Use this for initialization
-	void Start () {
+	void Awake () {
 		slider = this.GetComponent<Scrollbar> ();
+		if (PlayerPrefs.HasKey("gameVolume"))
+			slider.value = PlayerPrefs.GetFloat ("gameVolume");
 	}
 	
 	// Update is called once per frame
@@ -17,8 +19,8 @@ public class volumeSetter : MonoBehaviour {
 		
 	}
 
-	void updateVolSettings(){
-
+	public void updateVolSettings()
+	{
 		PlayerPrefs.SetFloat ("gameVolume", slider.value);
 	}
 }

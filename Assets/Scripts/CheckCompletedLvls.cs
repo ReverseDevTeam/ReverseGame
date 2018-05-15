@@ -19,7 +19,7 @@ public class CheckCompletedLvls : MonoBehaviour {
 
 		for (int i = 1; i <= 6; i++) 
 		{
-			if (PlayerPrefs.GetInt ("lvl" + i + "_complete") == 1) {
+			if (PlayerPrefs.GetInt ("lvl" + i + "_complete") == 1 || PlayerPrefs.GetInt("allLvlsUnlocked") == 1) {
 				lvlButtons [i].interactable = true;
 			}
 			else 

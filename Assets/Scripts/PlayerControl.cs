@@ -44,7 +44,12 @@ public class PlayerControl : MonoBehaviour {
         audioCtrlScript = GetComponent<audioControl>();
 
 		PlayerPrefs.SetInt ("health", 3);
-        PlayerPrefs.SetInt ("coins", totalCoins);
+
+	    if (PlayerPrefs.HasKey("coins"))
+	    {
+		    totalCoins = PlayerPrefs.GetInt("coins");
+	    }
+	    PlayerPrefs.SetInt ("coins", totalCoins);
 		
 		rb = GetComponent<Rigidbody2D> ();
 
