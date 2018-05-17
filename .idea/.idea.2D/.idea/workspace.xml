@@ -2,278 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf1f75db-6b78-4cf0-beb9-c165b0275d20" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.collabignore" beforeDir="false" afterPath="$PROJECT_DIR$/.collabignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.2D/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.2D/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.2D/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.2D/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/911Fonts.com_ComicSansMSRegular__-_911fonts.com_fonts_BpCS.ttf.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/911Fonts.com_ComicSansMSRegular__-_911fonts.com_fonts_BpCS.ttf.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Audio/Button_Menu.wav.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Audio/Button_Menu.wav.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Audio/Fireball_noise.mp3.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Audio/Fireball_noise.mp3.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Audio/menu_music.wav.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Audio/menu_music.wav.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Mini Profiler.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Mini Profiler.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Mini Profiler/CHANGELOG.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Mini Profiler/CHANGELOG.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Mini Profiler/CHANGELOG.txt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Mini Profiler/CHANGELOG.txt.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Mini Profiler/Editor.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Mini Profiler/Editor.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Mini Profiler/Editor/Mini Profiler Editor.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Mini Profiler/Editor/Mini Profiler Editor.dll.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Mini Profiler/Example.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Mini Profiler/Example.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Mini Profiler/Example/Example Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Mini Profiler/Example/Example Scene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Mini Profiler/Example/Example Scene.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Mini Profiler/Example/Example Scene.unity.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Mini Profiler/Fonts.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Mini Profiler/Fonts.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Mini Profiler/Fonts/Resources.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Mini Profiler/Fonts/Resources.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Mini Profiler/Fonts/Resources/VisitorTT1Extended.ttf.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Mini Profiler/Fonts/Resources/VisitorTT1Extended.ttf.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Mini Profiler/Mini Profiler.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Mini Profiler/Mini Profiler.dll.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Mini Profiler/Prefabs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Mini Profiler/Prefabs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Mini Profiler/Prefabs/Framerate Watcher.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Mini Profiler/Prefabs/Framerate Watcher.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Mini Profiler/Prefabs/Memory Watcher.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Mini Profiler/Prefabs/Memory Watcher.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Mini Profiler/README.txt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Mini Profiler/README.txt.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PixelPack03_Free.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PixelPack03_Free.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PixelPack03_Free/BKG01.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PixelPack03_Free/BKG01.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PixelPack03_Free/BKG03.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PixelPack03_Free/BKG03.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PixelPack03_Free/Blocks.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PixelPack03_Free/Blocks.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PixelPack03_Free/Bricks.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PixelPack03_Free/Bricks.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PixelPack03_Free/BricksWide.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PixelPack03_Free/BricksWide.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PixelPack03_Free/Columns.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PixelPack03_Free/Columns.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PixelPack03_Free/Crate.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PixelPack03_Free/Crate.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PixelPack03_Free/Gems.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PixelPack03_Free/Gems.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PixelPack03_Free/Level01.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PixelPack03_Free/Level01.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PixelPack03_Free/Level01.tmx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PixelPack03_Free/Level01.tmx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PixelPack03_Free/Level02.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PixelPack03_Free/Level02.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PixelPack03_Free/Level02.tmx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PixelPack03_Free/Level02.tmx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PixelPack03_Free/Levels.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PixelPack03_Free/Levels.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PixelPack03_Free/Tileset.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PixelPack03_Free/Tileset.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PixelPack03_Free/Tilesheet.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PixelPack03_Free/Tilesheet.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PixelPack03_Free/Tilesheet.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PixelPack03_Free/Tilesheet.unity.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefab/GUI.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/GUI.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Ground.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/Ground.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefab/HUD.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/HUD.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefab/LVLComplete.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/LVLComplete.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefab/LoadBar.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/LoadBar.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Pivot.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/Pivot.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Discordity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Discordity/Demo.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Discordity/Demo/RichPresence.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Discordity/Demo/RichPresence.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Discordity/Plugins.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Discordity/Plugins/x86_64.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Discordity/Plugins/x86_64/discord-rpc.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Discordity/Plugins/x86_64/discord-rpc.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Discordity/Readme.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Discordity/Readme.pdf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Discordity/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Discordity/Scripts/DiscordController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Discordity/Scripts/DiscordController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Discordity/Scripts/DiscordRpc.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Discordity/Scripts/DiscordRpc.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Discordity/x86.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Discordity/x86/discord-rpc.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Discordity/x86/discord-rpc.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Mini Profiler.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Mini Profiler/CHANGELOG.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Mini Profiler/CHANGELOG.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Mini Profiler/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Mini Profiler/Editor/Mini Profiler Editor.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Mini Profiler/Editor/Mini Profiler Editor.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Mini Profiler/Example.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Mini Profiler/Example/Example Scene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Mini Profiler/Example/Example Scene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Mini Profiler/Fonts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Mini Profiler/Fonts/Resources.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Mini Profiler/Fonts/Resources/VisitorTT1Extended.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Mini Profiler/Fonts/Resources/VisitorTT1Extended.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Mini Profiler/Mini Profiler.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Mini Profiler/Mini Profiler.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Mini Profiler/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Mini Profiler/Prefabs/Framerate Watcher.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Mini Profiler/Prefabs/Framerate Watcher.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Mini Profiler/Prefabs/Memory Watcher.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Mini Profiler/Prefabs/Memory Watcher.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Mini Profiler/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Mini Profiler/README.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefab/GUI.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/GUI.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefab/Player.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/Player.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level3 (1).unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level3 (1).unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/demo.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/demo.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/lvl1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/lvl1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/lvl1.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/lvl1.unity.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/lvl2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/lvl2.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/lvl2.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/lvl2.unity.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/lvl3.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/lvl3.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/lvl3.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/lvl3.unity.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/lvl5.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/lvl5.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/lvl5.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/lvl5.unity.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/lvl5_2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/lvl5_2.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/lvl5_2.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/lvl5_2.unity.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/main_menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/main_menu.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CamMovement.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CamMovement.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CheckCompletedLvls.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CheckCompletedLvls.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CheckCompletedLvls.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CheckCompletedLvls.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CreditsScene.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CreditsScene.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Easter.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Easter.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/EnemyControl.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/EnemyControl.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Fireball.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Fireball.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/HardModeBtn.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/HardModeBtn.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ListenerKeyboardInputScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ListenerKeyboardInputScript.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ListenerKeyboardInputScript.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ListenerKeyboardInputScript.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/lvl4.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/lvl4.unity.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerControl.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerControl.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/QuitGame.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/QuitGame.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/VolumeUpdater.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/VolumeUpdater.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/loadLvl.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/loadLvl.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/lvlCompleteHandler.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/lvlCompleteHandler.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/volumeSetter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/volumeSetter.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/volumeSetter.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/volumeSetter.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Firebar.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Firebar.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/coin_spritesheet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/coin_spritesheet.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/fireball.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/fireball.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/lava3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/lava3.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/icanfarmpp.osu.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/icanfarmpp.osu.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/icanremotecontrol.osu.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/icanremotecontrol.osu.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/351630 kradness&amp;Reol - Remote Control.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/351630 kradness&amp;Reol - Remote Control.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/351630 kradness&amp;Reol - Remote Control/control.mp3.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/351630 kradness&amp;Reol - Remote Control/control.mp3.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/351630 kradness&amp;Reol - Remote Control/kradness&amp;Reol - Remote Control (Taeyang) [Max Control!].osu.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/351630 kradness&amp;Reol - Remote Control/kradness&amp;Reol - Remote Control (Taeyang) [Max Control!].osu.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/351630 kradness&amp;Reol - Remote Control/normal-hitclap2.wav.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/351630 kradness&amp;Reol - Remote Control/normal-hitclap2.wav.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/351630 kradness&amp;Reol - Remote Control/normal-hitfinish2.wav.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/351630 kradness&amp;Reol - Remote Control/normal-hitfinish2.wav.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/351630 kradness&amp;Reol - Remote Control/normal-hitfinish4.wav.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/351630 kradness&amp;Reol - Remote Control/normal-hitfinish4.wav.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/351630 kradness&amp;Reol - Remote Control/normal-hitwhistle2.wav.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/351630 kradness&amp;Reol - Remote Control/normal-hitwhistle2.wav.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/351630 kradness&amp;Reol - Remote Control/normal-sliderslide2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/351630 kradness&amp;Reol - Remote Control/normal-sliderslide2.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/351630 kradness&amp;Reol - Remote Control/reol.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/351630 kradness&amp;Reol - Remote Control/reol.jpg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/351630 kradness&amp;Reol - Remote Control/soft-hitclap.wav.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/351630 kradness&amp;Reol - Remote Control/soft-hitclap.wav.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/351630 kradness&amp;Reol - Remote Control/soft-hitclap2.wav.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/351630 kradness&amp;Reol - Remote Control/soft-hitclap2.wav.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/351630 kradness&amp;Reol - Remote Control/soft-hitclap3.wav.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/351630 kradness&amp;Reol - Remote Control/soft-hitclap3.wav.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/351630 kradness&amp;Reol - Remote Control/soft-hitclap4.wav.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/351630 kradness&amp;Reol - Remote Control/soft-hitclap4.wav.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/351630 kradness&amp;Reol - Remote Control/soft-hitfinish3.wav.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/351630 kradness&amp;Reol - Remote Control/soft-hitfinish3.wav.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/351630 kradness&amp;Reol - Remote Control/soft-hitwhistle.wav.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/351630 kradness&amp;Reol - Remote Control/soft-hitwhistle.wav.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/351630 kradness&amp;Reol - Remote Control/soft-hitwhistle2.wav.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/351630 kradness&amp;Reol - Remote Control/soft-hitwhistle2.wav.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/351630 kradness&amp;Reol - Remote Control/soft-hitwhistle3.wav.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/351630 kradness&amp;Reol - Remote Control/soft-hitwhistle3.wav.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/351630 kradness&amp;Reol - Remote Control/soft-hitwhistle4.wav.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/351630 kradness&amp;Reol - Remote Control/soft-hitwhistle4.wav.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/351630 kradness&amp;Reol - Remote Control/soft-sliderslide.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/351630 kradness&amp;Reol - Remote Control/soft-sliderslide.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/351630 kradness&amp;Reol - Remote Control/soft-sliderslide2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/351630 kradness&amp;Reol - Remote Control/soft-sliderslide2.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/351630 kradness&amp;Reol - Remote Control/soft-sliderslide3.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/351630 kradness&amp;Reol - Remote Control/soft-sliderslide3.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/351630 kradness&amp;Reol - Remote Control/soft-sliderslide4.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/351630 kradness&amp;Reol - Remote Control/soft-sliderslide4.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/Various Artists - Songs Compilation (Sotarks) [Kin's Inner Oni].osu.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/Various Artists - Songs Compilation (Sotarks) [Kin's Inner Oni].osu.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/Various Artists - Songs Compilation (Sotarks).osb.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/Various Artists - Songs Compilation (Sotarks).osb.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/audio.mp3.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/audio.mp3.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/bg.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/bg.jpg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/drum-hitclap22.wav.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/drum-hitclap22.wav.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/drum-hitwhistle22.wav.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/drum-hitwhistle22.wav.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/normal-hitclap22.wav.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/normal-hitclap22.wav.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/normal-hitwhistle22.wav.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/normal-hitwhistle22.wav.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/bg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/bg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/bg/Wagamama.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/bg/Wagamama.jpg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/bg/acchu.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/bg/acchu.jpg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/bg/eromanga.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/bg/eromanga.jpg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/bg/haitai.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/bg/haitai.jpg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/bg/junshin.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/bg/junshin.jpg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/bg/magi.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/bg/magi.jpg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/bg/myhero.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/bg/myhero.jpg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/bg/natsukoi hanabi.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/bg/natsukoi hanabi.jpg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/div.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/div.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/div/circle.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/div/circle.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/div/dot.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/div/dot.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/div/pixel.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/div/pixel.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/div/vig.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/div/vig.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/10526.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/10526.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/10526/3042.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/10526/3042.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/10526/3061.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/10526/3061.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/10526/3063.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/10526/3063.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/10526/307e.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/10526/307e.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/10526/3085.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/10526/3085.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/10526/6625.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/10526/6625.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/10526/9752.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/10526/9752.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/10526/ff01.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/10526/ff01.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/10526/ff5e.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/10526/ff5e.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/106244.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/106244.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/106244/0041.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/106244/0041.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/106244/0061.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/106244/0061.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/106244/006c.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/106244/006c.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/106244/0073.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/106244/0073.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/106244/0077.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/106244/0077.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/106244/0079.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/106244/0079.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/106244/771f.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/106244/771f.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/106244/7d14.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/106244/7d14.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/145216.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/145216.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/145216/30a2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/145216/30a2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/145216/30cb.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/145216/30cb.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/145216/30e1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/145216/30e1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/145216/6307.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/145216/6307.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/145216/671b.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/145216/671b.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/145216/7248.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/145216/7248.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/145216/9060.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/145216/9060.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/145216/93e1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/145216/93e1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/145216/ff5e.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/145216/ff5e.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/202708.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/202708.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/202708/2606.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/202708/2606.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/202708/3044.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/202708/3044.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/202708/3069.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/202708/3069.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/202708/307e.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/202708/307e.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/202708/3086.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/202708/3086.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/202708/308b.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/202708/308b.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/202708/308f.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/202708/308f.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/202708/30fc.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/202708/30fc.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/216592.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/216592.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/216592/0021.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/216592/0021.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/216592/0048.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/216592/0048.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/216592/004d.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/216592/004d.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/216592/0055.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/216592/0055.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/216592/0065.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/216592/0065.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/216592/006f.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/216592/006f.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/216592/0070.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/216592/0070.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/216592/0072.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/216592/0072.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/216592/0074.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/216592/0074.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/216592/0075.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/216592/0075.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/216592/0079.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/216592/0079.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/233734.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/233734.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/233734/30b4.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/233734/30b4.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/233734/30c8.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/233734/30c8.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/233734/30d2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/233734/30d2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/233734/30ea.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/233734/30ea.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/291960.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/291960.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/291960/590f.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/291960/590f.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/291960/604b.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/291960/604b.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/291960/706b.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/291960/706b.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/291960/82b1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/291960/82b1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/345125.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/345125.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/345125/0021.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/345125/0021.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/345125/0050.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/345125/0050.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/345125/0054.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/345125/0054.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/345125/0061.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/345125/0061.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/345125/0066.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/345125/0066.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/345125/0067.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/345125/0067.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/345125/0068.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/345125/0068.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/345125/0069.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/345125/0069.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/345125/006b.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/345125/006b.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/345125/006c.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/345125/006c.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/345125/006e.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/345125/006e.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/345125/006f.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/345125/006f.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/345125/0072.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/345125/0072.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/345125/0073.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/345125/0073.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/345125/0079.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/345125/0079.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/44598.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/44598.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/44598/0041.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/44598/0041.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/44598/0045.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/44598/0045.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/44598/0048.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/44598/0048.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/44598/0049.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/44598/0049.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/44598/004d.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/44598/004d.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/44598/004f.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/44598/004f.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/44598/0052.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/44598/0052.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/44598/0054.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/44598/0054.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/44598/30ac.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/44598/30ac.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/44598/30de.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/44598/30de.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/44598/30ef.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/44598/30ef.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/91.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/91.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/91/0042.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/91/0042.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/91/0053.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/91/0053.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/91/0061.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/91/0061.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/91/0062.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/91/0062.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/91/0065.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/91/0065.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/91/006b.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/91/006b.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/91/006d.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/91/006d.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/91/006f.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/91/006f.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/91/0070.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/91/0070.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/91/0072.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/91/0072.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/91/0073.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/91/0073.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/91/0074.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/91/0074.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/91/0079.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/sb/songNames/91/0079.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/soft-hitclap22.wav.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/soft-hitclap22.wav.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/soft-hitwhistle22.wav.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/736560 Various Artists - Songs Compilation/soft-hitwhistle22.wav.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/LICENSE.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/LICENSE.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/Materials.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/Materials.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/Materials/Trail.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/Materials/Trail.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/Materials/Trail.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/Materials/Trail.mat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/Objects.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/Objects.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/Objects/Circle.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/Objects/Circle.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/Scenes.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/Scenes.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/Scenes/icanfarmpp.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/Scenes/icanfarmpp.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/Scenes/icanfarmpp.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/Scenes/icanfarmpp.unity.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/Scenes/icanremotecontrol.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/Scenes/icanremotecontrol.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/Scenes/icanremotecontrol.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/Scenes/icanremotecontrol.unity.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/Scripts.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/Scripts.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/Scripts/Circle.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/Scripts/Circle.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/Scripts/GameHandler.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/Scripts/GameHandler.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/Skin.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/Skin.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/Skin/approachcircle.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/Skin/approachcircle.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/Skin/cursor@2x.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/Skin/cursor@2x.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/Skin/cursortrail@2x.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/Skin/cursortrail@2x.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/Skin/drum-hitnormal.wav.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/Skin/drum-hitnormal.wav.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/Skin/hitcircle.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/Skin/hitcircle.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/osu_mp/Skin/hitcircleoverlay.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/osu_mp/Skin/hitcircleoverlay.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnityPackageManager/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/UnityPackageManager/manifest.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -317,17 +96,7 @@
       </file>
       <file leaf-file-name="CreditsScene.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/CreditsScene.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <marker date="1525474117990" expanded="false" signature="6:78" ph="..." />
-                <marker date="1525474117990" expanded="true" signature="122:424" ph="{...}" />
-                <marker date="1525474117990" expanded="true" signature="190:237" ph="{...}" />
-                <marker date="1525474117990" expanded="true" signature="292:350" ph="{...}" />
-                <marker date="1525474117990" expanded="true" signature="370:422" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="Circle.cs" pinned="false" current-in-tab="false">
@@ -342,7 +111,7 @@
       <file leaf-file-name="ListenerKeyboardInputScript.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/ListenerKeyboardInputScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="379">
+            <state relative-caret-position="1450">
               <caret line="61" column="24" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
               <folding>
                 <marker date="1526342585446" expanded="false" signature="6:92" ph="..." />
@@ -365,62 +134,43 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PlayerControl.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="PlayerControl.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerControl.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="45" column="40" selection-start-line="45" selection-start-column="40" selection-end-line="45" selection-end-column="40" />
+            <state relative-caret-position="329">
+              <caret line="37" column="25" lean-forward="true" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
               <folding>
-                <marker date="1526343623871" expanded="false" signature="6:78" ph="..." />
-                <marker date="1526343623871" expanded="true" signature="124:4410" ph="{...}" />
-                <marker date="1526343623871" expanded="true" signature="991:1360" ph="{...}" />
-                <marker date="1526343623871" expanded="true" signature="1124:1186" ph="{...}" />
-                <marker date="1526343623871" expanded="true" signature="1383:1495" ph="{...}" />
-                <marker date="1526343623871" expanded="true" signature="1520:2675" ph="{...}" />
-                <marker date="1526343623871" expanded="true" signature="1852:2589" ph="{...}" />
-                <marker date="1526343623871" expanded="true" signature="1929:2257" ph="{...}" />
-                <marker date="1526343623871" expanded="true" signature="2279:2584" ph="{...}" />
-                <marker date="1526343623871" expanded="true" signature="2720:2904" ph="{...}" />
-                <marker date="1526343623871" expanded="true" signature="2761:2784" ph="{...}" />
-                <marker date="1526343623871" expanded="true" signature="2828:2851" ph="{...}" />
-                <marker date="1526343623871" expanded="true" signature="2931:3216" ph="{...}" />
-                <marker date="1526343623871" expanded="true" signature="2977:3165" ph="{...}" />
-                <marker date="1526343623871" expanded="true" signature="3260:3416" ph="{...}" />
-                <marker date="1526343623871" expanded="true" signature="3440:3521" ph="{...}" />
-                <marker date="1526343623871" expanded="true" signature="3561:4130" ph="{...}" />
-                <marker date="1526343623871" expanded="true" signature="3633:3783" ph="{...}" />
-                <marker date="1526343623871" expanded="true" signature="3855:4031" ph="{...}" />
-                <marker date="1526343623871" expanded="true" signature="4073:4096" ph="{...}" />
-                <marker date="1526343623871" expanded="true" signature="4157:4292" ph="{...}" />
-                <marker date="1526343623871" expanded="true" signature="4330:4368" ph="{...}" />
-                <marker date="1526343623871" expanded="true" signature="4389:4408" ph="{...}" />
+                <marker date="1526451582496" expanded="false" signature="6:78" ph="..." />
+                <marker date="1526451582496" expanded="true" signature="124:3769" ph="{...}" />
+                <marker date="1526451582496" expanded="true" signature="906:1249" ph="{...}" />
+                <marker date="1526451582496" expanded="true" signature="1039:1101" ph="{...}" />
+                <marker date="1526451582496" expanded="true" signature="1272:1384" ph="{...}" />
+                <marker date="1526451582496" expanded="true" signature="1409:2270" ph="{...}" />
+                <marker date="1526451582496" expanded="true" signature="1741:2184" ph="{...}" />
+                <marker date="1526451582496" expanded="true" signature="1818:1999" ph="{...}" />
+                <marker date="1526451582496" expanded="true" signature="2021:2179" ph="{...}" />
+                <marker date="1526451582496" expanded="true" signature="2315:2499" ph="{...}" />
+                <marker date="1526451582496" expanded="true" signature="2356:2379" ph="{...}" />
+                <marker date="1526451582496" expanded="true" signature="2423:2446" ph="{...}" />
+                <marker date="1526451582496" expanded="true" signature="2526:2811" ph="{...}" />
+                <marker date="1526451582496" expanded="true" signature="2572:2760" ph="{...}" />
+                <marker date="1526451582496" expanded="true" signature="2855:3011" ph="{...}" />
+                <marker date="1526451582496" expanded="true" signature="3035:3116" ph="{...}" />
+                <marker date="1526451582496" expanded="true" signature="3156:3725" ph="{...}" />
+                <marker date="1526451582496" expanded="true" signature="3228:3378" ph="{...}" />
+                <marker date="1526451582496" expanded="true" signature="3450:3626" ph="{...}" />
+                <marker date="1526451582496" expanded="true" signature="3668:3691" ph="{...}" />
+                <marker date="1526451582496" expanded="true" signature="3748:3767" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="loadLvl.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="loadLvl.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/loadLvl.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <marker date="1525908339139" expanded="false" signature="6:135" ph="..." />
-                <marker date="1525908339139" expanded="true" signature="174:735" ph="{...}" />
-                <marker date="1525908339139" expanded="true" signature="266:271" ph="{...}" />
-                <marker date="1525908339139" expanded="true" signature="289:296" ph="{...}" />
-                <marker date="1525908339139" expanded="true" signature="338:419" ph="{...}" />
-                <marker date="1525908339139" expanded="true" signature="466:733" ph="{...}" />
-                <marker date="1525908339139" expanded="true" signature="569:730" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CrushCheck.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/CrushCheck.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+            <state relative-caret-position="375">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -432,7 +182,6 @@
               <caret line="22" selection-start-line="22" selection-end-line="22" />
               <folding>
                 <marker date="1525474118685" expanded="false" signature="6:78" ph="..." />
-                <marker date="1525474118685" expanded="true" signature="125:597" ph="{...}" />
                 <marker date="1525474118685" expanded="true" signature="258:410" ph="{...}" />
                 <marker date="1525474118685" expanded="true" signature="428:595" ph="{...}" />
                 <marker date="1525474118685" expanded="true" signature="508:592" ph="{...}" />
@@ -461,16 +210,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
               <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-              <folding>
-                <marker date="1526341251889" expanded="false" signature="6:100" ph="..." />
-                <marker date="1526341251889" expanded="true" signature="150:746" ph="{...}" />
-                <marker date="1526341251889" expanded="true" signature="255:682" ph="{...}" />
-                <marker date="1526341251889" expanded="true" signature="289:389" ph="{...}" />
-                <marker date="1526341251889" expanded="true" signature="460:679" ph="{...}" />
-                <marker date="1526341251889" expanded="true" signature="569:615" ph="{...}" />
-                <marker date="1526341251889" expanded="true" signature="624:675" ph="{...}" />
-                <marker date="1526341251889" expanded="true" signature="737:744" ph="{...}" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -532,10 +271,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="SolutionExplorer">
-        <option name="show-file-system" value="false" />
-        <option name="show-all-items" value="false" />
-      </pane>
+      <pane id="Scratches" />
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -553,14 +289,17 @@
         </subPane>
         <option name="show-hidden-items" value="false" />
       </pane>
-      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/2D.sln" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="SolutionBuilderGeneralOptionsPageId" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -599,7 +338,8 @@
       <workItem from="1526085371509" duration="26000" />
       <workItem from="1526085584307" duration="157000" />
       <workItem from="1526155673243" duration="1199000" />
-      <workItem from="1526339662405" duration="4349000" />
+      <workItem from="1526339662405" duration="4463000" />
+      <workItem from="1526428138261" duration="2664000" />
     </task>
     <task id="LOCAL-00001" summary="Added lvl restrictions">
       <created>1525908428887</created>
@@ -615,11 +355,18 @@
       <option name="project" value="LOCAL" />
       <updated>1525908573850</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="idk what just happened">
+      <created>1526357644372</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1526357644372</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20331000" />
+    <option name="totallyTimeSpent" value="23109000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -632,22 +379,21 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32897604" />
       <window_info anchor="bottom" id="Unit Tests" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27452025" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27771854" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unity" order="8" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="NuGet" order="7" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -669,7 +415,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added lvl restrictions" />
     <MESSAGE value="added lvl2" />
-    <option name="LAST_COMMIT_MESSAGE" value="added lvl2" />
+    <MESSAGE value="idk what just happened" />
+    <option name="LAST_COMMIT_MESSAGE" value="idk what just happened" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -677,13 +424,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Fireball.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/lvlCompleteHandler.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -719,17 +459,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/CreditsScene.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1525474117990" expanded="false" signature="6:78" ph="..." />
-            <marker date="1525474117990" expanded="true" signature="122:424" ph="{...}" />
-            <marker date="1525474117990" expanded="true" signature="190:237" ph="{...}" />
-            <marker date="1525474117990" expanded="true" signature="292:350" ph="{...}" />
-            <marker date="1525474117990" expanded="true" signature="370:422" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/osu_mp/Scripts/Circle.cs">
       <provider selected="true" editor-type-id="text-editor">
@@ -995,19 +725,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CreditsScene.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1525474117990" expanded="false" signature="6:78" ph="..." />
-            <marker date="1525474117990" expanded="true" signature="122:424" ph="{...}" />
-            <marker date="1525474117990" expanded="true" signature="190:237" ph="{...}" />
-            <marker date="1525474117990" expanded="true" signature="292:350" ph="{...}" />
-            <marker date="1525474117990" expanded="true" signature="370:422" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/osu_mp/Scripts/GameHandler.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5750">
@@ -1044,7 +761,6 @@
           <caret line="22" selection-start-line="22" selection-end-line="22" />
           <folding>
             <marker date="1525474118685" expanded="false" signature="6:78" ph="..." />
-            <marker date="1525474118685" expanded="true" signature="125:597" ph="{...}" />
             <marker date="1525474118685" expanded="true" signature="258:410" ph="{...}" />
             <marker date="1525474118685" expanded="true" signature="428:595" ph="{...}" />
             <marker date="1525474118685" expanded="true" signature="508:592" ph="{...}" />
@@ -1069,22 +785,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-          <folding>
-            <marker date="1526341251889" expanded="false" signature="6:100" ph="..." />
-            <marker date="1526341251889" expanded="true" signature="150:746" ph="{...}" />
-            <marker date="1526341251889" expanded="true" signature="255:682" ph="{...}" />
-            <marker date="1526341251889" expanded="true" signature="289:389" ph="{...}" />
-            <marker date="1526341251889" expanded="true" signature="460:679" ph="{...}" />
-            <marker date="1526341251889" expanded="true" signature="569:615" ph="{...}" />
-            <marker date="1526341251889" expanded="true" signature="624:675" ph="{...}" />
-            <marker date="1526341251889" expanded="true" signature="737:744" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/ListenerKeyboardInputScript.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
+        <state relative-caret-position="1450">
           <caret line="61" column="24" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
           <folding>
             <marker date="1526342585446" expanded="false" signature="6:92" ph="..." />
@@ -1106,49 +812,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerControl.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/loadLvl.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="45" column="40" selection-start-line="45" selection-start-column="40" selection-end-line="45" selection-end-column="40" />
-          <folding>
-            <marker date="1526343623871" expanded="false" signature="6:78" ph="..." />
-            <marker date="1526343623871" expanded="true" signature="124:4410" ph="{...}" />
-            <marker date="1526343623871" expanded="true" signature="991:1360" ph="{...}" />
-            <marker date="1526343623871" expanded="true" signature="1124:1186" ph="{...}" />
-            <marker date="1526343623871" expanded="true" signature="1383:1495" ph="{...}" />
-            <marker date="1526343623871" expanded="true" signature="1520:2675" ph="{...}" />
-            <marker date="1526343623871" expanded="true" signature="1852:2589" ph="{...}" />
-            <marker date="1526343623871" expanded="true" signature="1929:2257" ph="{...}" />
-            <marker date="1526343623871" expanded="true" signature="2279:2584" ph="{...}" />
-            <marker date="1526343623871" expanded="true" signature="2720:2904" ph="{...}" />
-            <marker date="1526343623871" expanded="true" signature="2761:2784" ph="{...}" />
-            <marker date="1526343623871" expanded="true" signature="2828:2851" ph="{...}" />
-            <marker date="1526343623871" expanded="true" signature="2931:3216" ph="{...}" />
-            <marker date="1526343623871" expanded="true" signature="2977:3165" ph="{...}" />
-            <marker date="1526343623871" expanded="true" signature="3260:3416" ph="{...}" />
-            <marker date="1526343623871" expanded="true" signature="3440:3521" ph="{...}" />
-            <marker date="1526343623871" expanded="true" signature="3561:4130" ph="{...}" />
-            <marker date="1526343623871" expanded="true" signature="3633:3783" ph="{...}" />
-            <marker date="1526343623871" expanded="true" signature="3855:4031" ph="{...}" />
-            <marker date="1526343623871" expanded="true" signature="4073:4096" ph="{...}" />
-            <marker date="1526343623871" expanded="true" signature="4157:4292" ph="{...}" />
-            <marker date="1526343623871" expanded="true" signature="4330:4368" ph="{...}" />
-            <marker date="1526343623871" expanded="true" signature="4389:4408" ph="{...}" />
-          </folding>
+        <state relative-caret-position="375">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/loadLvl.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CreditsScene.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Discordity/Scripts/DiscordRpc.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerControl.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="37" column="25" lean-forward="true" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
           <folding>
-            <marker date="1525908339139" expanded="false" signature="6:135" ph="..." />
-            <marker date="1525908339139" expanded="true" signature="174:735" ph="{...}" />
-            <marker date="1525908339139" expanded="true" signature="266:271" ph="{...}" />
-            <marker date="1525908339139" expanded="true" signature="289:296" ph="{...}" />
-            <marker date="1525908339139" expanded="true" signature="338:419" ph="{...}" />
-            <marker date="1525908339139" expanded="true" signature="466:733" ph="{...}" />
-            <marker date="1525908339139" expanded="true" signature="569:730" ph="{...}" />
+            <marker date="1526451582496" expanded="false" signature="6:78" ph="..." />
+            <marker date="1526451582496" expanded="true" signature="124:3769" ph="{...}" />
+            <marker date="1526451582496" expanded="true" signature="906:1249" ph="{...}" />
+            <marker date="1526451582496" expanded="true" signature="1039:1101" ph="{...}" />
+            <marker date="1526451582496" expanded="true" signature="1272:1384" ph="{...}" />
+            <marker date="1526451582496" expanded="true" signature="1409:2270" ph="{...}" />
+            <marker date="1526451582496" expanded="true" signature="1741:2184" ph="{...}" />
+            <marker date="1526451582496" expanded="true" signature="1818:1999" ph="{...}" />
+            <marker date="1526451582496" expanded="true" signature="2021:2179" ph="{...}" />
+            <marker date="1526451582496" expanded="true" signature="2315:2499" ph="{...}" />
+            <marker date="1526451582496" expanded="true" signature="2356:2379" ph="{...}" />
+            <marker date="1526451582496" expanded="true" signature="2423:2446" ph="{...}" />
+            <marker date="1526451582496" expanded="true" signature="2526:2811" ph="{...}" />
+            <marker date="1526451582496" expanded="true" signature="2572:2760" ph="{...}" />
+            <marker date="1526451582496" expanded="true" signature="2855:3011" ph="{...}" />
+            <marker date="1526451582496" expanded="true" signature="3035:3116" ph="{...}" />
+            <marker date="1526451582496" expanded="true" signature="3156:3725" ph="{...}" />
+            <marker date="1526451582496" expanded="true" signature="3228:3378" ph="{...}" />
+            <marker date="1526451582496" expanded="true" signature="3450:3626" ph="{...}" />
+            <marker date="1526451582496" expanded="true" signature="3668:3691" ph="{...}" />
+            <marker date="1526451582496" expanded="true" signature="3748:3767" ph="{...}" />
           </folding>
         </state>
       </provider>

@@ -37,9 +37,6 @@ public class PlayerControl : MonoBehaviour {
 
     public audioControl audioCtrlScript;
 
-    public DiscordRpc.RichPresence presence;
-    DiscordRpc.EventHandlers handlers;
-
     void Start () {
         audioCtrlScript = GetComponent<audioControl>();
 
@@ -54,9 +51,6 @@ public class PlayerControl : MonoBehaviour {
 		rb = GetComponent<Rigidbody2D> ();
 
 		SetCheckpoint (false);
-
-        startDiscord();
-
 
 		res = false;
 		dead = false;
@@ -86,9 +80,6 @@ public class PlayerControl : MonoBehaviour {
                 audioCtrlScript.playSound("m_Jump");
                 totalJumps++;
 
-                presence.details = string.Format("Player Jumped {0} times", totalJumps);
-
-                DiscordRpc.UpdatePresence(ref presence);
             }
 
 			else if(grounded){
@@ -96,9 +87,6 @@ public class PlayerControl : MonoBehaviour {
                 audioCtrlScript.playSound("m_Jump");
                 totalJumps++;
 
-                presence.details = string.Format("Player Jumped {0} times", totalJumps);
-
-                DiscordRpc.UpdatePresence(ref presence);
             }
 
 		}
@@ -161,15 +149,7 @@ public class PlayerControl : MonoBehaviour {
 //		Debug.Log (col + "zucc");
 
 	}
-		
-    void startDiscord(){
-        handlers = new DiscordRpc.EventHandlers();
-        DiscordRpc.Initialize(discordApplicationId, ref handlers, true, "");
-    }
-
-    private void OnApplicationQuit(){
-        DiscordRpc.Shutdown();
-    }
+	
 	public void Death(){
 		dead = true;
 	}

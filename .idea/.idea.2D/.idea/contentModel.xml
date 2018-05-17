@@ -5,16 +5,6 @@
     <e p="D:\Unity Projects\Reverse Final Project - Collaborate\2D" t="IncludeRecursive">
       <e p="2D.sln" t="IncludeFlat" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
-      <e p="Assets\Discordity" t="Include">
-        <e p="Scripts" t="Include">
-          <e p="DiscordController.cs" t="Include" />
-          <e p="DiscordRpc.cs" t="Include" />
-        </e>
-      </e>
-      <e p="Assets\Mini Profiler" t="Include">
-        <e p="CHANGELOG.txt" t="Include" />
-        <e p="README.txt" t="Include" />
-      </e>
       <e p="Assets\osu_mp" t="Include">
         <e p="Scripts" t="Include">
           <e p="Circle.cs" t="Include" />
