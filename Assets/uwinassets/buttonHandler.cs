@@ -17,6 +17,6 @@ public class buttonHandler : MonoBehaviour {
 
 	public void sendToMain()
 	{
-		SceneManager.LoadScene("main_menu");
+		Initiate.Fade("main_menu", Color.black, 2.0f);
 	}
 }

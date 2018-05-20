@@ -46,6 +46,16 @@
         <e p="volumeSetter.cs" t="Include" />
         <e p="VolumeUpdater.cs" t="Include" />
       </e>
+      <e p="Assets\Simple Scene Fade Load System" t="Include">
+        <e p="Demo (You don't have to import this folder)" t="Include">
+          <e p="DemoScript.cs" t="Include" />
+        </e>
+        <e p="ReadMeFirst.txt" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="Fader.cs" t="Include" />
+          <e p="Initiate.cs" t="Include" />
+        </e>
+      </e>
       <e p="Assets\TextMesh Pro" t="Include">
         <e p="Examples &amp; Extras" t="Include">
           <e p="Fonts" t="Include">
