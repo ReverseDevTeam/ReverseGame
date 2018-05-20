@@ -6,6 +6,12 @@
       <e p="2D.sln" t="IncludeFlat" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets\osu_mp" t="Include">
+        <e p="Scenes" t="Include">
+          <e p="spriteSheets" t="Include">
+            <e p="headScript.cs" t="Include" />
+            <e p="HeadsGameHandler.cs" t="Include" />
+          </e>
+        </e>
         <e p="Scripts" t="Include">
           <e p="Circle.cs" t="Include" />
           <e p="GameHandler.cs" t="Include" />
@@ -104,6 +110,9 @@
             <e p="TMPro_Surface.cginc" t="Include" />
           </e>
         </e>
+      </e>
+      <e p="Assets\uwinassets" t="Include">
+        <e p="buttonHandler.cs" t="Include" />
       </e>
       <e p="Library" t="ExcludeRecursive" />
       <e p="obj" t="ExcludeRecursive" />

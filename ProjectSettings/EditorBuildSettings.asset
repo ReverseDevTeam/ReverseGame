@@ -19,13 +19,22 @@ EditorBuildSettings:
     guid: 0bc67fa417d6b4946968f2d06e03c36f
   - enabled: 1
     path: Assets/Scenes/lvl4.unity
-    guid: 7163dcbb11dbe434495fdc6df45656d2
+    guid: 41b2eb745db895c4395e1755fc6716f9
   - enabled: 1
-    path: Assets/Scenes/lvl5_2.unity
+    path: Assets/Scenes/lvl5.unity
     guid: f369f29f610bf1d4c962ab303f687807
+  - enabled: 1
+    path: Assets/Scenes/lvl6.unity
+    guid: 74fbd2ef0c0c5e24391b451ad9c2cb76
+  - enabled: 1
+    path: Assets/Scenes/uwinm8.unity
+    guid: d6f5dfcc9a4067a44a87b6837ad5a7ac
   - enabled: 1
     path: Assets/osu_mp/Scenes/icanfarmpp.unity
     guid: 02f9ec41f6efaed429d4a42068111d57
   - enabled: 1
     path: Assets/osu_mp/Scenes/icanremotecontrol.unity
     guid: aea1f0d870bb85e4f8c7c4cd3a39993a
+  - enabled: 1
+    path: Assets/osu_mp/Scenes/icanspin.unity
+    guid: 9fff0b2e43fd6964487fa12f9a2e58cf

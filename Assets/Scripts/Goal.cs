@@ -6,7 +6,6 @@ using UnityEngine.SceneManagement;
 public class Goal : MonoBehaviour {
 
 	public string sceneName;
-	public int here;
 	
 	public GameObject lvlCompleteUI;
 

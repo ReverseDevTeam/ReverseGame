@@ -5,13 +5,12 @@ using UnityEngine.UI;
 
 public class volumeSetter : MonoBehaviour {
 
-	public Scrollbar slider;
+	public Slider slider;
 
 	// Use this for initialization
-	void Awake () {
-		slider = this.GetComponent<Scrollbar> ();
-		if (PlayerPrefs.HasKey("gameVolume"))
-			slider.value = PlayerPrefs.GetFloat ("gameVolume");
+	void Start () {
+		slider = this.GetComponent<Slider> ();
+		slider.value = PlayerPrefs.GetFloat ("gameVolume");
 	}
 	
 	// Update is called once per frame
