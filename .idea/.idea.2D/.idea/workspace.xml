@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf1f75db-6b78-4cf0-beb9-c165b0275d20" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.2D/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.2D/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.2D/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.2D/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Player.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/Player.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/lvl1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/lvl1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/lvl2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/lvl2.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/lvl3.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/lvl3.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/lvl5.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/lvl5.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/main_menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/main_menu.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/loadLvl.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/loadLvl.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/uwinassets/buttonHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/uwinassets/buttonHandler.cs" afterDir="false" />
-    </list>
+    <list default="true" id="bf1f75db-6b78-4cf0-beb9-c165b0275d20" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,8 +55,8 @@
       <file leaf-file-name="buttonHandler.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/uwinassets/buttonHandler.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="304">
+              <caret line="19" column="54" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
               <folding>
                 <marker date="1526855378388" expanded="false" signature="6:113" ph="..." />
                 <marker date="1526855378388" expanded="true" signature="158:361" ph="{...}" />
@@ -274,7 +263,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="413" />
     <option name="y" value="-22" />
     <option name="width" value="1400" />
@@ -367,7 +356,7 @@
       <workItem from="1526608044024" duration="7110000" />
       <workItem from="1526758026486" duration="1559000" />
       <workItem from="1526797999105" duration="768000" />
-      <workItem from="1526847890347" duration="2733000" />
+      <workItem from="1526847890347" duration="3333000" />
     </task>
     <task id="LOCAL-00001" summary="Added lvl restrictions">
       <created>1525908428887</created>
@@ -394,7 +383,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35279000" />
+    <option name="totallyTimeSpent" value="35879000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -407,7 +396,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
@@ -925,8 +913,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/uwinassets/buttonHandler.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="304">
+          <caret line="19" column="54" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
           <folding>
             <marker date="1526855378388" expanded="false" signature="6:113" ph="..." />
             <marker date="1526855378388" expanded="true" signature="158:361" ph="{...}" />
