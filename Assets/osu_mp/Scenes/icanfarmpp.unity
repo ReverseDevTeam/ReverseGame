@@ -113,6 +113,48 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1001 &44568003
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4621755296711522, guid: 38bdac27a0a68964b9b7bf9aec16ac03, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 385.93347
+      objectReference: {fileID: 0}
+    - target: {fileID: 4621755296711522, guid: 38bdac27a0a68964b9b7bf9aec16ac03, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 204.17578
+      objectReference: {fileID: 0}
+    - target: {fileID: 4621755296711522, guid: 38bdac27a0a68964b9b7bf9aec16ac03, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -5.375
+      objectReference: {fileID: 0}
+    - target: {fileID: 4621755296711522, guid: 38bdac27a0a68964b9b7bf9aec16ac03, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4621755296711522, guid: 38bdac27a0a68964b9b7bf9aec16ac03, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4621755296711522, guid: 38bdac27a0a68964b9b7bf9aec16ac03, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4621755296711522, guid: 38bdac27a0a68964b9b7bf9aec16ac03, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4621755296711522, guid: 38bdac27a0a68964b9b7bf9aec16ac03, type: 2}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 38bdac27a0a68964b9b7bf9aec16ac03, type: 2}
+  m_IsPrefabParent: 0
 --- !u!1 &263986309
 GameObject:
   m_ObjectHideFlags: 0
@@ -389,6 +431,7 @@ MonoBehaviour:
   HitSound: {fileID: 8300000, guid: 78f29bd0a5131f94eb9dca3a32d4f70c, type: 3}
   numSucessfullyClicked: 0
   percentage: 0
+  dc: {fileID: 0}
   ptext: {fileID: 0}
 --- !u!4 &882044838
 Transform:

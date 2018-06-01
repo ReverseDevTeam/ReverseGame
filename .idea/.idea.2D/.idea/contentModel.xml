@@ -5,6 +5,14 @@
     <e p="D:\Unity Projects\Reverse Final Project - Collaborate\2D" t="IncludeRecursive">
       <e p="2D.sln" t="IncludeFlat" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets\Discord" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="DiscordController.cs" t="Include" />
+          <e p="ScriptsToIgnore" t="Include">
+            <e p="DiscordRpc.cs" t="Include" />
+          </e>
+        </e>
+      </e>
       <e p="Assets\osu_mp" t="Include">
         <e p="Scenes" t="Include">
           <e p="spriteSheets" t="Include">
@@ -18,16 +26,25 @@
         </e>
       </e>
       <e p="Assets\Scripts" t="Include">
+        <e p="abr" t="Include">
+          <e p="animationControllerNetwork.cs" t="Include" />
+          <e p="PlayerControlNetwork.cs" t="Include" />
+        </e>
+        <e p="animationController.cs" t="Include" />
         <e p="audioControl.cs" t="Include" />
         <e p="CamMovement.cs" t="Include" />
         <e p="CheckCompletedLvls.cs" t="Include" />
         <e p="Checkpoint.cs" t="Include" />
+        <e p="clearData.cs" t="Include" />
         <e p="CreditsScene.cs" t="Include" />
         <e p="CrushCheck.cs" t="Include" />
         <e p="DeathScreen.cs" t="Include" />
         <e p="Easter.cs" t="Include" />
+        <e p="enemyAC.cs" t="Include" />
         <e p="EnemyControl.cs" t="Include" />
+        <e p="ExitGameMulti.cs" t="Include" />
         <e p="Fireball.cs" t="Include" />
+        <e p="FirstLaunchHandler.cs" t="Include" />
         <e p="Goal.cs" t="Include" />
         <e p="GUI.cs" t="Include" />
         <e p="HardModeBtn.cs" t="Include" />
@@ -54,6 +71,11 @@
         <e p="Scripts" t="Include">
           <e p="Fader.cs" t="Include" />
           <e p="Initiate.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Assets\spritefont_and_other" t="Include">
+        <e p="document_and_picturelist" t="Include">
+          <e p="readme.txt" t="Include" />
         </e>
       </e>
       <e p="Assets\TextMesh Pro" t="Include">

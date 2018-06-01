@@ -33,6 +33,8 @@ public class GameHandler : MonoBehaviour
     public int numSucessfullyClicked;
     public float percentage;
 
+    public DiscordController dc;
+
     public Text ptext;
 
     private List<GameObject> CircleList; // Circles List
@@ -60,10 +62,13 @@ public class GameHandler : MonoBehaviour
         Music.clip = MainMusic;
         pSounds = Sounds;
         pHitSound = HitSound;
+        dc = GameObject.Find("DRPCHandler").GetComponent<DiscordController>();
         CircleList = new List<GameObject>();
 
         ptext = GameObject.Find("Text").GetComponent<Text>();
         ReadCircles(Application.streamingAssetsPath + "/" + MapFileName + ".osu");
+        
+        updateRpc();
     }
 
     // MAP READER
@@ -233,5 +238,28 @@ public class GameHandler : MonoBehaviour
         }
         ptext.text = percentage + "%";
         
+    }
+
+    private void updateRpc()
+    {
+        dc.presence.details = getMapName();
+        dc.presence.state = "Clicking Circles";
+        dc.presence.largeImageKey = "oss";
+        dc.updateStartTime();
+    }
+
+    private String getMapName()
+    {
+        switch (MapFileName)
+        {
+            case "icanremotecontrol":
+                return "Reol ft. Kradness - Remote Control";
+                break;
+            case "icanfarmpp":
+                return "Various Artists - Songs Compilation";
+                break;
+            default:
+                return "Custom Map";
+        }
     }
 }

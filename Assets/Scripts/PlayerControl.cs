@@ -1,6 +1,9 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Assertions.Must;
+using UnityEngine.SceneManagement;
 
 
 public class PlayerControl : MonoBehaviour {
@@ -21,14 +24,19 @@ public class PlayerControl : MonoBehaviour {
 	public Transform groundCheck;
 	public float groundCheckBox;
 	public LayerMask ground;
-	private bool grounded;
+	[HideInInspector]
+	public bool grounded;
 
+	public DiscordController dc;
+	private string healthStr;
     public string discordApplicationId = "378417960659714048";
 
     private int totalJumps;
 
     private int totalCoins;
 	private float timeSinceLastCoinPickup;
+
+	private bool hardMode;
 
 	[HideInInspector]
 	public bool res;																	//allow other scripts to check for respawn
@@ -54,7 +62,11 @@ public class PlayerControl : MonoBehaviour {
 
 		res = false;
 		dead = false;
-	}
+
+	    dc = GetComponent<DiscordController>();
+	    dc.updateDetails(String.Format("In Level {0} | ♥ {1}", SceneManager.GetActiveScene().name.Substring(3), health));
+	    dc.updateStartTime();
+    }
 		
     void Update () {
 
@@ -62,12 +74,39 @@ public class PlayerControl : MonoBehaviour {
 
 		if (transform.position.y < -12)														//testing damage script
 			TakeDamage ();
+
+	    if (PlayerPrefs.GetInt("reversedOn") == 1)
+		    hardMode = true;
+	    else
+	    {
+		    hardMode = false;
+	    }
+
+	    if (health >= 1)
+	    {
+		    healthStr = health.ToString();
+	    }
+	    else
+	    {
+		    healthStr = 0.ToString();
+	    }
+
+    }
+
+	public void RunGame ()
+	{
+		float moveH;
+
+		switch (hardMode)
+		{
+				case true:
+					moveH = -Input.GetAxis ("Horizontal");
+					break;
+				default:
+					moveH = Input.GetAxis ("Horizontal");	
+					break;
+		}
 		
-	}
-
-	public void RunGame (){
-
-		float moveH = Input.GetAxis ("Horizontal");	
 		rb.velocity = new Vector2 (moveH * moveSpeed, rb.velocity.y);                       //x movement
 
 		if (grounded)
@@ -112,10 +151,13 @@ public class PlayerControl : MonoBehaviour {
 			PlayerPrefs.SetInt ("health", health);
 			Debug.Log ("damage");
 			Debug.Log(timeSinceLastDMG);
-		} else {
+		} else
+		{
+			health--;
 			Death ();
 		}
 		timeSinceLastDMG = 0;
+		dc.updateDetails(String.Format("In Level {0} | ♥ {1}", SceneManager.GetActiveScene().name.Substring(3), health));
 	}
 
 	public void SetCheckpoint(bool playSound){
@@ -132,7 +174,7 @@ public class PlayerControl : MonoBehaviour {
 	}
 
 	void OnTriggerEnter2D(Collider2D col){													//jumping on enemies
-		if (col.gameObject.tag == "Enemy") {
+		if (col.gameObject.tag == "Enemy" && col.gameObject.transform.position.y < gameObject.transform.position.y) {
 			Destroy (col.gameObject);
 			rb.velocity = new Vector2 (rb.velocity.x, jumpHeight/2);
             audioCtrlScript.playSound("Hitting_Enemy");

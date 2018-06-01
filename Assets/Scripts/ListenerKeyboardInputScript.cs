@@ -9,11 +9,13 @@ public class ListenerKeyboardInputScript : MonoBehaviour {
 	public string[] remoteControl;
 	public string[] thisIsMario;
 	public string[] iWasInWebDesign;
+	public string[] fortnite;
 	
 	public int ppIndex;
 	public int remoteIndex;
 	public int marioIndex;
 	public int webDesIndex;
+	public int fortniteIndex;
 
 	public GameObject allLvsCompleted;
 
@@ -24,11 +26,13 @@ public class ListenerKeyboardInputScript : MonoBehaviour {
 		remoteControl = new string[] { "left", "right", "left", "right", "s", "d", "up", "t", "b", "b", "a", "b", "s"};
 		thisIsMario = new string[] { "t", "h", "i", "s", "space", "i", "s", "space", "m", "a", "r", "i", "o"};
 		iWasInWebDesign = new string[]{"i", "space", "w", "a", "s", "space", "i", "n", "space", "w", "e", "b", "space", "d", "e", "s", "i", "g", "n"};
+		fortnite = new string[]{"f", "o", "r", "t", "n", "i", "t", "e"};
 		
 		ppIndex = 0;
 		remoteIndex = 0;
 		marioIndex = 0;
 		webDesIndex = 0;
+		fortniteIndex = 0;
 		
 		if(PlayerPrefs.GetInt("allLvlsUnlocked") == 1)
 			allLvsCompleted.SetActive(true);
@@ -64,6 +68,15 @@ public class ListenerKeyboardInputScript : MonoBehaviour {
 			else {
 				webDesIndex = 0;    
 			}
+
+			if (Input.GetKeyDown(fortnite[fortniteIndex]))
+			{
+				fortniteIndex++;
+			}
+			else
+			{
+				fortniteIndex = 0;
+			}
 		}
 
 		// If index reaches the length of the cheatCode string, 
@@ -87,6 +100,11 @@ public class ListenerKeyboardInputScript : MonoBehaviour {
 		if (webDesIndex == iWasInWebDesign.Length) {
 			loadScript.loadScene("icanspin");
 			marioIndex = 0;
+		}
+
+		if (fortnite.Length == fortniteIndex)
+		{
+			loadScript.loadScene("abr");
 		}
 	}
 }

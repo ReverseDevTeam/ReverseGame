@@ -7,8 +7,9 @@ public class CheckCompletedLvls : MonoBehaviour {
 
 	public List<Button> lvlButtons = new List<Button>();
 
-	// Use this for initialization
 	void Start () {
+
+		PlayerPrefs.SetInt ("lvl0_complete", 1);
 
 		for (int i = 1; i <= 6; i++) 
 		{
@@ -16,21 +17,28 @@ public class CheckCompletedLvls : MonoBehaviour {
 		}
 
 		lvlButtons[0].interactable = true;
+	}
 
-		for (int i = 1; i <= 6; i++) 
+	private void Update()
+	{
+		for (int i = 0; i <= 5; i++) 
 		{
-			if (PlayerPrefs.GetInt ("lvl" + i + "_complete") == 1 || PlayerPrefs.GetInt("allLvlsUnlocked") == 1) {
-				lvlButtons [i].interactable = true;
+			if (PlayerPrefs.GetInt ("lvl" + i + "_complete") == 1 || PlayerPrefs.GetInt("allLvlsUnlocked") == 1) 
+			{
+				if(i <= lvlButtons.Count-2)
+					lvlButtons [i+1].interactable = true;
 			}
 			else 
 			{
-				lvlButtons [i].interactable = false;
+				switch (i)
+				{
+					case 0:
+						break;
+					default:
+						lvlButtons [i].interactable = false;
+						break;
+				}
 			}
 		}
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
 	}
 }

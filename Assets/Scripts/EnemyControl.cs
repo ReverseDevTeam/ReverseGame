@@ -12,7 +12,8 @@ public class EnemyControl : MonoBehaviour {
 
 	private float intPos;
 	private Rigidbody2D rb;
-	private int moveDir;
+	[HideInInspector]
+	public int moveDir;
 	private Collider2D coll;
 
 	public Collider2D cameraColl;

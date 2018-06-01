@@ -5,15 +5,33 @@ using UnityEngine.UI;
 
 public class HardModeBtn : MonoBehaviour {
 
-	public GameObject hardBtn;
-	private int lv6;
+	public Button hardBtn;
+	public GameObject hardModeBG;
 
-	void Start () {
-		lv6 = PlayerPrefs.GetInt ("lvl6_complete");
-		if (lv6 == 1) {
-			hardBtn.SetActive (true);
+
+	void Start(){
+		PlayerPrefs.SetInt ("reversedOn", 0);
+	}
+
+	void LateUpdate () {
+		if (PlayerPrefs.GetInt("lvl6_complete") == 1 || PlayerPrefs.GetInt("allLvlsUnlocked") == 1){
+			hardBtn.interactable = true;
 		} else {
-			hardBtn.SetActive (false);
+			hardBtn.interactable = false;
+		}
+
+		if (PlayerPrefs.GetInt ("reversedOn") == 0) {
+			hardModeBG.SetActive (false);
+		} else if (PlayerPrefs.GetInt("reversedOn") == 1){
+			hardModeBG.SetActive (true);
+		}
+	}
+
+	public void PushBtn(){
+		if (PlayerPrefs.GetInt("reversedOn") == 0) {
+			PlayerPrefs.SetInt ("reversedOn", 1);
+		} else if (PlayerPrefs.GetInt("reversedOn") == 1) {
+			PlayerPrefs.SetInt ("reversedOn", 0);
 		}
 	}
 }

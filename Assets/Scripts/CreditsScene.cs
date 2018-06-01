@@ -17,6 +17,6 @@ public class CreditsScene : MonoBehaviour {
 	}
 
 	void OnEnable () {
-		transform.position = new Vector2 (360, -250);
+		transform.localPosition = new Vector2 (0, -350);
 	}
 }

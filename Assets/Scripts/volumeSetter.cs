@@ -10,7 +10,9 @@ public class volumeSetter : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		slider = this.GetComponent<Slider> ();
-		slider.value = PlayerPrefs.GetFloat ("gameVolume");
+		
+		if(PlayerPrefs.HasKey("gameVolume"))
+			slider.value = PlayerPrefs.GetFloat ("gameVolume");
 	}
 	
 	// Update is called once per frame

@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/main_menu.unity
     guid: 448d861880697364591b0579b85af92e
   - enabled: 1
+    path: Assets/Story/Story.unity
+    guid: 65ede68c531eba144ad1097ed3cc3080
+  - enabled: 1
     path: Assets/Scenes/lvl1.unity
     guid: af2133a94ba46324eae3fa197d87aca0
   - enabled: 1
@@ -30,11 +33,14 @@ EditorBuildSettings:
     path: Assets/Scenes/uwinm8.unity
     guid: d6f5dfcc9a4067a44a87b6837ad5a7ac
   - enabled: 1
-    path: Assets/osu_mp/Scenes/icanfarmpp.unity
-    guid: 02f9ec41f6efaed429d4a42068111d57
-  - enabled: 1
     path: Assets/osu_mp/Scenes/icanremotecontrol.unity
     guid: aea1f0d870bb85e4f8c7c4cd3a39993a
   - enabled: 1
+    path: Assets/osu_mp/Scenes/icanfarmpp.unity
+    guid: 02f9ec41f6efaed429d4a42068111d57
+  - enabled: 1
     path: Assets/osu_mp/Scenes/icanspin.unity
     guid: 9fff0b2e43fd6964487fa12f9a2e58cf
+  - enabled: 1
+    path: Assets/Scenes/abr/abr.unity
+    guid: e22d45104a9b12947ab8eedd0229c0b9
